@@ -1,2 +1,2 @@
 # replit
-Replit files from highscholl
+Replit files from highschool
